@@ -1,4 +1,4 @@
-# NEA-sentiment-playlist-generator
+# sentiment-playlist-generator
 
 This project explores the intersection of machine learning and music recommendation.
 It uses sentiment analysis to classify text input from the user into different emotions, and then generates a playlist that the gradually transitions from the detected emotion to the user's emotion of choice.
