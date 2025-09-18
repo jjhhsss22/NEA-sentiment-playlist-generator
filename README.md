@@ -11,4 +11,4 @@ A dataset of 1,000 songs is mapped onto a 2D Valence–Arousal graph, allowing a
 
 💡 Goal: demonstrate how AI can bridge natural language understanding and personalized music experiences, including potential applications in music therapy.
 
-Here is the full documentation of the project: https://docs.google.com/document/d/1AXUjFWPD2pMQd-m4CJqvyM-0PtknIBVEZfSJAUdR-mM/edit?usp=sharing
+Here is the full documentation of the project: https://docs.google.com/document/d/1xRGxF-19MLz0YQcSxIe7rRYlSt83DojQSZsl5oeYK54/edit?usp=sharing
