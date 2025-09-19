@@ -23,6 +23,6 @@ Here is the full documentation of the project: https://docs.google.com/document/
 
 - Add support for real-time streaming services (Spotify/YouTube).
 
-- Improve emotion prediction with transformers or contextual embeddings.
+- Improve emotion prediction with transformers or contextual/positional embeddings.
 
 - Add user feedback loop to refine playlist suggestions.
