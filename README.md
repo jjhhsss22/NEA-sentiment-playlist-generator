@@ -15,3 +15,14 @@ Here is the full documentation of the project: https://docs.google.com/document/
 
 
 (the dataset used couldn't be uploaded due to its size)
+
+
+✨ Potential Improvements  
+(Now that I have more experience)
+- Expand dataset to more songs.
+
+- Add support for real-time streaming services (Spotify/YouTube).
+
+- Improve emotion prediction with transformers or contextual embeddings.
+
+- Add user feedback loop to refine playlist suggestions.
